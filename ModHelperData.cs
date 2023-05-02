@@ -3,7 +3,7 @@ namespace MilitaryCommander;
 public static class ModHelperData
 {
     public const string WorksOnVersion = "36.1";
-    public const string Version = "1.0.0";
+    public const string Version = "1.0.1";
     public const string Name = "Military Commander";
 
     public const string Description = "Adds the Military commander tower!";
