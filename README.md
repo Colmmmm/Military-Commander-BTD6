@@ -5,7 +5,7 @@ Still work in progress, so if you have any ideas or you want your OWN custom tow
 
 
 
-Credits: \n
+Credits:
           Bennik06- i used his code for making the base tower, and using his mods i could figure out alot about making my own mods.
           
           DoomBubbles- his "Card monkey" mod and "industrial farmer" helped me out a TON when making the mod.
