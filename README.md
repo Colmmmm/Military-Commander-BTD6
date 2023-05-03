@@ -21,6 +21,6 @@ TO-DO: (if you know how to do any of these things or wanna help me do it, please
           
           Make middle path and paragon buff other military monkeys in range. 
           
-          Maybe add carpet bomb ability from ace paragon to the paragon (i know how to add ability, just not fully how to setup the buttoms to set its drop location D: ) 
+          Maybe add carpet bomb ability from ace paragon to the paragon
 
 ![image](https://user-images.githubusercontent.com/84244844/235677829-c514ba53-3cbe-4b2f-95ce-694f1f7f20a7.png)
